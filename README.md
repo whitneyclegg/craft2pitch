@@ -7,7 +7,7 @@ There’s a surge in closing and shuttered shops across Manhattan. Landlords app
 
 In 2014, the city experienced the largest increase in chain stores in four years, and the sixth straight year of growth in chains, bringing the tally to 7,473 throughout the city, according to a report from the Center for an Urban Future.
 
-High commercial rents are changing the city. The publication would track this growing trend and and analyze/comment on the fluctuations in rents, cycles of types of businesses in certain city areas (retail, restaurants, service, what-not, etc.), the shelf-life of tenants, changes in the cityscape, how live-ability is affected, etc. 
+High commercial rents are changing the city. The publication would track this growing trend and analyze/comment on the fluctuations in rents, cycles of types of businesses in certain city areas (retail, restaurants, service, what-not, etc.), the shelf-life of tenants, changes in the cityscape, how live-ability is affected, etc. 
 
 # Give a few general examples of pieces that might run on this site?
 
@@ -17,7 +17,7 @@ High commercial rents are changing the city. The publication would track this gr
 Seeing these changes visually with an interactive map that highlights the number of recently (2013 - to date) closed small businesses and the number of chain drug stores and banks. 
 
 •	Personalizing the problem
-Providing a video components with interviews of small business owners, landlords, city councilmembers and an expert on urban economics.
+Providing video components with interviews of small business owners, landlords, city councilmembers and an expert on urban economics.
 
 •	Providing an economic analysis. 
 What is the impact on New York’s municipal economy and the gross national product (G.N.P)?
